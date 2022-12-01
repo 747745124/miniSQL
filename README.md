@@ -7,3 +7,5 @@ mkdir build
 cd build
 make .
 ```
+
+## Performance Test
